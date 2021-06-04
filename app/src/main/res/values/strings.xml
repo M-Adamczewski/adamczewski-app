@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdamczewskiApp</string>
+    <string name="edittext_cant_be_empty">Pole nie może być puste!</string>
+</resources>
